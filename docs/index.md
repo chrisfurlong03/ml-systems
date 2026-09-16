@@ -65,12 +65,12 @@ Class agenda for each meeting is in the [agenda](agenda.md) (one file per term; 
 | 16                             | Clustering<br>([Clustering](notebooks/16-Clustering-Clean.html))                                            |             |
 | **Generative Models**          |                                                                                                             | Ch. 7       |
 | 17                             | Diffusion Models<br>([Diffusion Models](notebooks/17-Diffusion-Clean.html))                                 |             |
-| 18                             | State-Space Models<br>([State-Space Models](https://colab.research.google.com/drive/18gZYLy7lmbCqwov1AIYTN0aFPbfhHYQn?usp=sharing)) |             |
+| 18                             | State-Space Models<br>([NetSSM walkthrough](https://github.com/noise-lab/netssm/blob/main/example/train_netssm_from_scratch.ipynb) · [open in Colab](https://colab.research.google.com/github/noise-lab/netssm/blob/main/example/train_netssm_from_scratch.ipynb), needs a GPU) |             |
 | 19                             | Transformers<br>([Large Language Models](notebooks/19-LLM-Clean.html))                                      |             |
 | **Bonus Topics**               |                                                                                                             | Ch. 8       |
 | 20                             | Timeseries Analysis<br>([Timeseries](notebooks/20-Timeseries-Clean.html))                                   |             |
 | 21                             | Reinforcement Learning<br>([Reinforcement Learning](notebooks/21-Reinforcement-Clean.html))                 |             |
-| 22                             | Autoencoders<br>([Autoencoders](notebooks/22-Autoencoders-Clean.html))                                      |             |
+| 22                             | Autoencoders (covered within Lecture 15)                                                                    |             |
 | 23                             | Model Performance and Maintenance                                                                           |             |
 
 Please come to class having done the reading.
