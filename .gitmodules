@@ -1,0 +1,4 @@
+[submodule "submissions/netdiffusion"]
+	path = submissions/netdiffusion
+	url = https://github.com/chrisfurlong03/netdiffusion.git
+	branch = chrisf
